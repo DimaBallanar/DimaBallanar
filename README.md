@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning с#  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60"/>
 </div>
 - 💞️ I’m looking to collaborate on a trip to Mars
+
+- If we end up on a desert island, then I know how to make fire, where to get food and how to equip a rooming house
  
  <div id="badges"> Connect with me:
   <a href="https://t.me/paparazb">
