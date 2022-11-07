@@ -9,7 +9,7 @@
 
 - If we end up on a desert island, then I know how to make fire, where to get food and how to equip a rooming house
  
- <div id="badges"> Connect with me:
+ <div id="badges"> Connect with me: <base target="_blank">
   <a href="https://t.me/paparazb">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="LinkedIn Badge"/> </a>
 <a href="https://instagram.com/ballanar1">
