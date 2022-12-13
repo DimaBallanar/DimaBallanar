@@ -7,7 +7,7 @@
 </div>
 - 💞️ I’m looking to collaborate on a trip to Mars
 
-- If we end up on a desert island, then I know how to make fire, where to get food and how to equip a rooming house
+- If we end up on a desert island, then I  know how to make fire, where to get food and how to equip a rooming house
  
  <div id="badges"> Connect with me: 
   <a href="https://t.me/paparazb" target="_blank">
@@ -21,6 +21,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DimaBallanar)](https://github.com/DimaBallanar/github-profile-trophy)
 <!---
-DimaBallanar/DimaBallanar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DimaBallanar/DimaBallanar is  a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
